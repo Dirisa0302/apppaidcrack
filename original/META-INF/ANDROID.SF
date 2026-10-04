@@ -1,0 +1,86 @@
+Signature-Version: 1.0
+Created-By: Android Gradle 8.0.2
+SHA-256-Digest-Manifest: qmXa411Eryh+baNdxlfWIPV5JdxVHJ2NcTDwELFhfRE=
+X-Android-APK-Signed: 2,3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 6tvaDq7bNnCtrHSXpg2uHX2fuGz9b8A7Yh+nSgjYdiE=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA-256-Digest: d1Y6RhtrcVD2aS7wexKX75Fz5Ssmhi+/9heQJj+kJF0=
+
+Name: assets/SignatureKiller/origin.apk
+SHA-256-Digest: Q8+7LqPzUPlfAaQ4I06Jv5gqeZ7LTJH+BED6qzEjzOU=
+
+Name: classes.dex
+SHA-256-Digest: UozB74oCNyBrPgAHvXICkpxIwYpuVvlMw/MhFC8/+O0=
+
+Name: classes2.dex
+SHA-256-Digest: cwsiXPJ7hRQieEACzCP3Hw8O37DyJJp+Xkz8wbJHif4=
+
+Name: classes3.dex
+SHA-256-Digest: JfP+wlMjkNKDmV824Lg+6TAcjR8C1b6kL9P1QagT1yw=
+
+Name: lib/arm64-v8a/libSignatureKiller.so
+SHA-256-Digest: vcRbJfYrEnxZLlgkCW+6n/zmLjvb+gzjfV16EzJrpl8=
+
+Name: lib/arm64-v8a/libapex.so
+SHA-256-Digest: cJLr3UDcQJ6F3Eq7iF+T5LnK8V3iTQoJpmsPsNo3YZ8=
+
+Name: lib/arm64-v8a/libmain.so
+SHA-256-Digest: WIztwqzBCyrfOT+IMtqGwdV4jeU2Kk4VHpTnh1WXAoE=
+
+Name: lib/armeabi-v7a/libSignatureKiller.so
+SHA-256-Digest: 48zyZNLtJzAfkzHnNNu3ydKnCybE1NJvAna4dq9IyJc=
+
+Name: lib/armeabi-v7a/libapex.so
+SHA-256-Digest: JwE6sKnpPx7RhvcMqrQiH6wvl++UKtK5Kyr2HuJmSjU=
+
+Name: lib/x86/libSignatureKiller.so
+SHA-256-Digest: Re8zyGRjbe6TcV8acy8B/35OOmuo3WehJVGjO10dvg8=
+
+Name: lib/x86/libapex.so
+SHA-256-Digest: HSl3gzfbFSIHnAgb5D8QnB9lyp2+zIwOoFYt++5KubE=
+
+Name: lib/x86_64/libSignatureKiller.so
+SHA-256-Digest: +35qpvSZgFS5BKZKo4dQUXh9il8/cTrF3aA2TmTkTMA=
+
+Name: lib/x86_64/libapex.so
+SHA-256-Digest: ++Qi6jaoOuEltqCkWqidsYc8KCblI8ST48sazZGI+Uw=
+
+Name: res/drawable/ic_app.png
+SHA-256-Digest: gf/IiX5+QbMr+pV0uHdWP30R42w8WzQKbPhZXMtj95Y=
+
+Name: res/drawable/ic_developer.png
+SHA-256-Digest: aUeQL6yOSKNLj0VlKBX1UVu2UHEibVT0gxXHGqEZZNw=
+
+Name: res/drawable/ic_home.png
+SHA-256-Digest: ygJPEfU+1YDcqvmEoKckatCvzV1Oc1/056UxVmLGHcc=
+
+Name: res/drawable/ic_settings.png
+SHA-256-Digest: g7oQVMp6NFk/bERNKdEeYt4oGeAX3tzZu0pG1xSGqKs=
+
+Name: res/drawable/my_telegram_icon.png
+SHA-256-Digest: 0FUONZ9+LwcE11MGjadgKT0dSmxnP/jPqepl0Txy5oI=
+
+Name: res/mipmap-hdpi-v4/my_telegram_icon.png
+SHA-256-Digest: 9PU+azvimEH2ynVZs5/iAPz6kG6LfUf+jMki5Uq1w30=
+
+Name: res/mipmap-mdpi-v4/my_telegram_icon.png
+SHA-256-Digest: O/IKh37kp2VViRm+lVbgRH3nqhTCgtUegp+jAWjA/uE=
+
+Name: res/mipmap-xhdpi-v4/my_telegram_icon.png
+SHA-256-Digest: avH08MsMXLF1akKZke3NBJbsHlAc3ooMb0ltuVElk5o=
+
+Name: res/mipmap-xxhdpi-v4/my_telegram_icon.png
+SHA-256-Digest: dQhTBi7lTr4K2EY1S76gtGw1rXA4Hju6/XZFGLywKl0=
+
+Name: res/mipmap-xxxhdpi-v4/my_telegram_icon.png
+SHA-256-Digest: T/GWhKfK82RLZc2vuBDx5AR11XPt+FsL5Tmhiu0t5kA=
+
+Name: res/raw/logo_video.mp4
+SHA-256-Digest: LtvF6SAqx1+QFVwxXhFbeVf3PrIZzJaivha44AVaE1c=
+
+Name: resources.arsc
+SHA-256-Digest: eb7Gbl7EuhYFHhX3DMlmC4LF0Ibuap5+GoPTpK0Gas4=
+

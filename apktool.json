@@ -1,0 +1,34 @@
+{
+  "apkFileName": "TobbiXScript_1.0_src.apk",
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "doNotCompress": [
+    "resources.arsc",
+    "assets/SignatureKiller/origin.apk",
+    "jpg",
+    "png",
+    "mp4"
+  ],
+  "compressionType": false,
+  "sparseResources": false,
+  "version": "2.4.0-260818",
+  "sharedLibrary": false,
+  "VersionInfo": {
+    "versionName": "1.0",
+    "versionCode": "1"
+  },
+  "UsesFramework": {
+    "ids": [1],
+    "tag": null
+  },
+  "unknownFiles": {"META-INF/com/android/build/gradle/app-metadata.properties": "8"},
+  "apkFilePath": "/storage/emulated/0/Download/TobbiXScript_1.0.apk",
+  "compactEntries": false,
+  "isFrameworkApk": false,
+  "sdkInfo": {
+    "minSdkVersion": "21",
+    "targetSdkVersion": "29"
+  }
+}
